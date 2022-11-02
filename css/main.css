@@ -1,6 +1,7 @@
 .head {
     background: #fc0;
     height: 100px;
+    border-radius: 50px;
     position: relative;
     width: 100px;
     
